@@ -1,0 +1,7 @@
+{
+  "name": "your-backend-project",
+  "description": "A PHP project deployed on Render",
+  "require": {
+    "php": "^7.4 || ^8.0"
+  }
+}
